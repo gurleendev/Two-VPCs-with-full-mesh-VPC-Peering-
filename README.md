@@ -34,7 +34,7 @@ Main Page <br/>
 
 <p align="center">
 Main Page <br/>
-<img src="https://imgur.com/DcXfJnV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/b56v8cX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Adding Student:  <br/>
