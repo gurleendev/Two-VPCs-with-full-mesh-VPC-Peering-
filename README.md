@@ -4,8 +4,15 @@
 Implemented a robust and scalable dual-VPC network architecture on AWS, facilitating seamless communication between resources through full mesh VPC peering. This deployment included the configuration of EC2 instances within each VPC, comprising web servers and a bastion host, with stringent security measures to ensure secure SSH access and maintain infrastructure integrity. Network access controls, including NAT Gateway for outbound internet access and IPv6 enablement on public subnets, were implemented to enhance network capabilities and facilitate future scalability."
 <br />
 
-
-
+<p align="center">
+Main Page <br/>
+<img src="https://imgur.com/a/b56v8cX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<p align="center">
+Main Page <br/>
+<img src="https://imgur.com/a/pXl7I81.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <h2>Languages and Utilities Used</h2>
 
 - <b>AWS CloudFormation for infrastructure provisioning and management.</b>
@@ -24,13 +31,6 @@ Implemented a robust and scalable dual-VPC network architecture on AWS, facilita
 - <b>Text editors or Integrated Development Environments (IDEs) for writing and editing Python scripts and CloudFormation templates.</b>
 
 <h2>Program walk-through:</h2>
-
-
-<p align="center">
-Main Page <br/>
-<img src="https://imgur.com/a/b56v8cX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 
 <p align="center">
 Main Page <br/>
