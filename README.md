@@ -6,7 +6,7 @@ Implemented a robust and scalable dual-VPC network architecture on AWS, facilita
 
 <p align="center">
 Main Page <br/>
-<img src="https://imgur.com/IzXvnOS" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/5XNwK5d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <h2>Languages and Utilities Used</h2>
