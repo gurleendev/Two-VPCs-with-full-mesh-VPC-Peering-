@@ -5,6 +5,7 @@ Implemented a robust and scalable dual-VPC network architecture on AWS, facilita
 <br />
 
 <h2>Languages and Utilities Used</h2>
+
 - <b>AWS CloudFormation for infrastructure provisioning and management.</b>
 - <b>Python with Boto3 library for scripting and automation of EC2 instance deployment and configuration.</b>
 - <b>SSH for secure remote access to EC2 instances.</b>
@@ -14,6 +15,7 @@ Implemented a robust and scalable dual-VPC network architecture on AWS, facilita
 - <b>Bastion host for secure SSH access to the private resources within the VPCs.</b>
 
 <h2>Environments Used </h2>
+
 - <b>AWS Management Console for initial setup and configuration.</b>
 - <b>Local development environment for scripting and testing Python automation scripts.</b>
 - <b>AWS Command Line Interface (CLI) for command-line interactions with AWS services.</b>
