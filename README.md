@@ -4,6 +4,12 @@
 Implemented a robust and scalable dual-VPC network architecture on AWS, facilitating seamless communication between resources through full mesh VPC peering. This deployment included the configuration of EC2 instances within each VPC, comprising web servers and a bastion host, with stringent security measures to ensure secure SSH access and maintain infrastructure integrity. Network access controls, including NAT Gateway for outbound internet access and IPv6 enablement on public subnets, were implemented to enhance network capabilities and facilitate future scalability."
 <br />
 
+<p align="center">
+Main Page <br/>
+<img src="https://imgur.com/a/jUvalyX" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 <h2>Languages and Utilities Used</h2>
 
 - <b>AWS CloudFormation for infrastructure provisioning and management.</b>
